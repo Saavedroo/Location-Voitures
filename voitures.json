@@ -1,1 +1,2 @@
-[{"id":2,"client":null, "marque":"Marque","model":"Modele","carburant":"Carburant","capacite_habitacle":4,"capaciteHabitacle":4}]
+[{"id":2,"client":null, "marque":"Aston Martin","model":"AM DB5","carburant":"Essence","capacite_habitacle":2,"capaciteHabitacle":2},
+{"id":3,"client":null, "marque":"Volkswagen","model":"Coccinelle","carburant":"Essence","capacite_habitacle":4,"capaciteHabitacle":4}]
